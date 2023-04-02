@@ -76,15 +76,30 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 ![head](https://user-images.githubusercontent.com/118343610/229328806-0a49696a-1bc5-4c8f-ae61-0255e187c85d.png)
+
+
 ![tail](https://user-images.githubusercontent.com/118343610/229328832-25c89c2d-7043-46d6-89bb-15d8a0ae985a.png)
+
+
 ![x](https://user-images.githubusercontent.com/118343610/229328862-27860830-a562-48c4-889b-b84f88011e64.png)
+
+
 ![y](https://user-images.githubusercontent.com/118343610/229328894-a4677e32-a3e3-43eb-a17a-224d8405019b.png)
+
+
 ![ypredct](https://user-images.githubusercontent.com/118343610/229328976-e304ef5c-ea48-4e2f-a214-9ea9cbe4fbc5.png)
+
+
 ![ytest](https://user-images.githubusercontent.com/118343610/229328982-064c7ea0-ea19-4208-8ff1-df7917aac330.png)
+
+
 ![graph1](https://user-images.githubusercontent.com/118343610/229329001-3e169c03-510d-4706-a0e1-d3bacf7bc305.png)
+
+
 ![graph2](https://user-images.githubusercontent.com/118343610/229329017-5b85ceca-bbbd-4155-802a-5595aa230ea2.png)
+
+
 ![mmr](https://user-images.githubusercontent.com/118343610/229329037-31359559-63b5-4046-9c90-643b2467a3eb.png)
 
 
